@@ -1,0 +1,6 @@
+C:\Users\Winship\Desktop\Senior Project\SENIOR PROJ\Lumos\Lumos\obj\Debug\LumosLexer.cs
+C:\Users\Winship\Desktop\Senior Project\SENIOR PROJ\Lumos\Lumos\obj\Debug\LumosParser.cs
+C:\Users\Winship\Desktop\Senior Project\SENIOR PROJ\Lumos\Lumos\obj\Debug\LumosListener.cs
+C:\Users\Winship\Desktop\Senior Project\SENIOR PROJ\Lumos\Lumos\obj\Debug\LumosBaseListener.cs
+C:\Users\Winship\Desktop\Senior Project\SENIOR PROJ\Lumos\Lumos\obj\Debug\LumosVisitor.cs
+C:\Users\Winship\Desktop\Senior Project\SENIOR PROJ\Lumos\Lumos\obj\Debug\LumosBaseVisitor.cs
